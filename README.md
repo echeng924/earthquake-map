@@ -9,3 +9,5 @@ Combines USGS government earthquake data (updated every 5 minutes) and Google Ma
 - Size of circle represents magnitude.
 
 - Tsunami: 1 indicates oceanic regions, 0 otherwise
+
+**Live link:** http://lizcheng.com/earthquake-map/
